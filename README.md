@@ -1,2 +1,2 @@
-# finalAsessment
-<br>Final Asessment application made by Francisco Marquez and Petros Grivas </b>
+# finalAssessment
+<br>Final Assessment application made by Francisco Marquez and Petros Grivas </b>
